@@ -11,6 +11,7 @@ I learned what are semantic and how to use to correctly to help other people und
   Top of page has 3 links. Clicking on each link will direct user to related subject.
   Each Section has informations that user can read.
 
+
 ## Credits
 
 https://www.w3schools.com/html/html5_semantic_elements.asp
@@ -19,3 +20,8 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## Features
 Links on top of page that direct user to subject.
+
+  [https://howardlee2022.github.io/Horiseon-webpage/](https://howardlee2022.github.io/Horiseon-webpage/)
+  ![Header](assets/images/Header.jpg)
+  ![Content](/assets/images/Content.jpg)
+  
